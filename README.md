@@ -7,6 +7,10 @@
 Solution URL: https://www.frontendmentor.io/solutions/social-link-profile-cX7wx-fbt1
 
 
-Live site URL: (https://social-link-profile-main-jy66.vercel.app/)
+Live site URL: https://social-link-profile-main-jy66.vercel.app/
+
+- [Frontend Mentor Page](https://www.frontendmentor.io/solutions/faq-accordion-vv7qVzwowd)
+- [GitHub Pages](https://github.com/rocioizq)
+- [Vercel](https://vercel.com/rocioizqs-projects)
 
 Thanks for checking out this front-end coding challenge.
